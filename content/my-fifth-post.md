@@ -9,4 +9,7 @@ categories=["general","life","music"]
 authors=["Amodh BH"]
 avatar="/images/images.jpeg"
 +++
-Test Content
+
+# Project Title
+
+A brief description of what this project does and who it's for
