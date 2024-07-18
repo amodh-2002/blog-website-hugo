@@ -1,4 +1,4 @@
-baseURL = 'https://blog-website-weld-beta.vercel.app/'
+baseURL = 'https://blog-website-hugo.vercel.app/'
 languageCode = 'en-us'
 title = "Amodh's Blog"
 
